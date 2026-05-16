@@ -12,7 +12,7 @@ class AppConfig {
   static const bool enableLogging = !kReleaseMode;
   static const bool enableMockData = false;
 
-  static const String webviewUrl = 'https://www.youtube.com/';
+  static const String webviewUrl = 'https://aibotpro.devszone.com/';
 
 
   /// Timeout durations
