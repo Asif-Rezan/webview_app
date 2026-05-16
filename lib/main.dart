@@ -30,7 +30,7 @@ class MyApp extends ConsumerWidget {
           debugShowCheckedModeBanner: false,
           theme: AppTheme.light,
           darkTheme: AppTheme.dark,
-          themeMode: themeMode,
+          themeMode: ThemeMode.light,
           initialRoute: AppRoutes.initialRoute,
           routes: AppRoutes.routes,
           //  navigatorObservers: [AnalyticsService.instance.observer],
